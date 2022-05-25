@@ -1,0 +1,5 @@
+streamlit>=1.8.1
+streamlit_vtkjs>=0.3.2
+pollination-streamlit-io>=0.16.0
+honeybee-vtk >= 0.37.3
+extra_streamlit_components>=0.1.53
